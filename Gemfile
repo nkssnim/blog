@@ -24,6 +24,7 @@ end
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo", "~> 1.2"
   gem "tzinfo-data"
+  gem 'jekyll-redirect-from'
 end
 
 # Performance-booster for watching directories on Windows
