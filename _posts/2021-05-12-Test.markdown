@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "Test"
+title:  "Welcome to my blog"
 date:   2021-05-12 02:22:00 +0800
 categories: jekyll update
 ---
-Test
+I will be posting stuff related to my projects, game dev, computer graphics, language learning, etc.
+
+stay tuned
