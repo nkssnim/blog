@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "An Objective Analysis of My Student Exchange Experience in America"
+date:   2022-03-12 02:22:00 +0800
+categories: jekyll update
+---
+you're gonna love this
