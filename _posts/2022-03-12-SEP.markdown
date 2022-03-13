@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "An Objective Analysis of My Student Exchange Experience in America"
+title:  "Student Exchange: A Comparison Between Undergraduate Education in Singapore and America"
 date:   2022-03-12 02:22:00 +0800
 categories: jekyll update
 ---
