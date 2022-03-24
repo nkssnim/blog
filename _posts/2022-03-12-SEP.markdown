@@ -84,9 +84,9 @@ I scored slightly above average for the first midterm, 2 sigma above the average
 
 #### Game Plan & Results
 
-Going into the course, I immediately noticed I had a leg up on everyone else for the first one quarter of the content covered. I already had experience with ARM assembly and transferring those skills into RISC-V wasn't a problem at all. Consequently, the projects were a cakewalk. Preparing for the exams was a bit more tricky because the textbook isn't particularly verbose about some of the concepts it's suppoesd to be teaching so I had to go look online for some lecture sets from other universities. One really helpful set of lectures available on Youtube is by [Dr Prabhas Chongstitvatana](https://www.youtube.com/channel/UCCoY6tUQ1u-4nyKmcRTWr8w) from Chualongkorn University. Reviewing that lecture set and going through the homework problems turned out to be sufficient for a good grade.
+Going into the course, I immediately noticed I had a leg up on everyone else for the first one quarter of the content covered. I already had experience with ARM assembly and transferring those skills into RISC-V wasn't a problem at all. Consequently, the projects were a cakewalk. Preparing for the exams was a bit more tricky because the textbook isn't particularly verbose about some of the concepts it's supposed to be teaching so I had to go look online for some lecture sets from other universities. One really helpful set of lectures available on Youtube is by [Dr Prabhas Chongstitvatana](https://www.youtube.com/channel/UCCoY6tUQ1u-4nyKmcRTWr8w) from Chualongkorn University. Reviewing that lecture set and going through the homework problems turned out to be sufficient for a good grade.
 
-Expected Grade: A
+Expected Grade: A  
 Final Grade: A
 
 ### EEC 145: Electronic Materials
@@ -110,7 +110,7 @@ Lecture slides were not provided before the start of each lecture. Readings were
 
 There were a couple of times when I didn't bother to do the reading at all and messed up the quizzes (drew flowers for the TA :)). The quizzes sometimes covered key points that would show up during the exams so I probably should have taken them more seriously, but a man can only do so much when he's taking 24 units in one quarter right?
 
-Lecture quality was abysmal (sorry prof). If not for the quizzes, I don't think I would have attended any of the lectures. The reading is verbose yet concise enough to help you understand the content, and any missing prerequisite knowledge could be filled in with a quick Google search.
+Lecture quality was abysmal (sorry prof). If not for the quizzes, I don't think I would have attended any of the lectures. The reading is verbose yet concise (???) enough to help you understand the content, and any missing prerequisite knowledge could be filled in with a quick Google search.
 
 During the online portion of school, online lectures were boring enough that I would just wait for the quiz to finish and then leave because the lecture was recorded anyway.
 
@@ -132,7 +132,7 @@ This course was difficult from the start till the end. They started throwing mat
 
 I felt like I struggled for the exams but the TA marked my answers so leniently (I drew a flower for the second midterm and she drew a smiley face next to it), and everyone else in the class was just scoring so much worse than me that even I managed to surprise myself with my performance in this class.
 
-Expected Grade: B+
+Expected Grade: B+  
 Final Grade: A
 
 ### EEC 150: Intro to Signals and Systems
@@ -143,7 +143,7 @@ The format of the class was entirely online for the entire quarter. All lectures
 
 You were guaranteed a C- if your weighted mark was 50% overall for the course. I was just aiming for that 50% the whole time because I had no hope left for a good grade in this course.
 
-Possibly the worst class I've ever taken in any university. The instructor was bad, the text was bad, the lecture notes were (kinda) bad, the homework was extremely time-consuming and didn't really teach me anything, the exams were all online and open-book and involved regurgitating stuff from the homework and examples in the textbook. I didn't learn anything from this course; it was so bad that I'm currently reviewing the signals and systems course at my own university so I won't die when I take the next class that requires systems and signals as a pre-requisite.
+Possibly the worst class I've ever taken in any university. The instructor was bad, the text was bad, the lecture notes were (kinda) bad, the homework was extremely time-consuming and didn't really teach me anything, the exams were all online and open-book and involved regurgitating stuff from the homework and examples in the textbook. I didn't learn anything from this course; it was so bad that I'm currently reviewing the signals and systems course at my own university so I won't die when I take the next class that requires signals and systems as a pre-requisite.
 
 #### Office Hours & Consultation
 
@@ -181,7 +181,7 @@ After the result of the midterm was released, I knew straightaway that I had som
 
 Aim for the stars, land on the moon, as they say. I don't feel like I put in enough effort for this course (I was spread thinly across every course anyway) but I still managed to wreck the curve somehow... without understanding 99% of the things taught in the course.
 
-Expected Grade: C-
+Expected Grade: C-  
 Final Grade: A-
 
 [PART 2 COMING SOON]
