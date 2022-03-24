@@ -80,7 +80,7 @@ There were two midterms and one final exam. The midterms covered content in the 
 
 Dr Owens had provided sample exams (a past-year set of papers from 2019) to show the nature of the problems we'd be facing during the actual exam. The sample exams weren't particularly helpful since nothing similar showed up in the actual exam. Preparation for the actual exams just involved fully understanding the concepts and making sure I wasn't confused about anything. Redoing some of the homework problems was helpful as well.
 
-I scored slightly above average for the first midterm, 2 sigma above the average for the second midterm and 2 sigma above the average for the final.
+I scored slightly above average for the first midterm, 2 sd above the average for the second midterm and 2 sd above the average for the final.
 
 #### Game Plan & Results
 
@@ -124,7 +124,7 @@ The first midterm was online and open-book. Second midterm was closed-book with 
 
 The exam problems were mostly simple things that checked whether you understood a concept or not. Despite being open-book, the first midterm still needed a good amount of preparation both from attending the review sessions and doing the homework problems. The second midterm and final exam weren't really related to the homework problems all that much but attending the review sessions was still massive for preparation.
 
-I scored the highest in class for the first midterm, got the 2nd highest in class for the second midterm and got 1 sigma above the mean for the final.
+I scored the highest in class for the first midterm, got the 2nd highest in class for the second midterm and got 1 sd above the mean for the final.
 
 #### Game Plan & Results
 
@@ -171,7 +171,7 @@ The midterm was basically a set of 8 quizzes on Canvas that ran consecutively fo
 
 The final was the same thing with 8 quizzes but he changed the format to multiple-choice because marking the midterm was so time consuming (go figure). Even though it was multiple-choice, the problems were straightforward with no tricks involved. Once again, people in the Discord lamented about the final and how it was so difficult (I beg to differ).
 
-Yeah, I don't know how I did it but I got 1 sigma above the mean for the midterm and 2 sigma above the mean for the final. I guess people in this university are really... special... lmao.
+Yeah, I don't know how I did it but I got 1 sd above the mean for the midterm and 2 sd above the mean for the final. I guess people in this university are really... special... lmao.
 
 #### Game Plan & Results
 
