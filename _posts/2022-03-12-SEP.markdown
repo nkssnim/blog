@@ -1,11 +1,9 @@
 ---
 layout: post
 title:  "Student Exchange Part 1: My Experience with Undergraduate Education in America (versus Singapore)"
-date:   2022-03-12 02:22:00 +0800
+date:   2022-03-24 18:36:00 +0800
 categories: jekyll update
 ---
-
-[READ PART 2 HERE]
 
 From January to March 2022, I had the opportunity to study at UC Davis as an exchange student.
 
@@ -29,7 +27,7 @@ Here are the courses I was taking:
 - MGT 150: Technology Management
 
 and here's the schedule I was given:
-[insert schedule here]
+![My UCD Schedule](/blog/myucdschedule.JPG)
 
 Note that I never attended half of the classes on here (more on that later).
 
@@ -186,4 +184,4 @@ Aim for the stars, land on the moon, as they say. I don't feel like I put in eno
 Expected Grade: C-
 Final Grade: A-
 
-[CONINUED IN PART 2]
+[PART 2 COMING SOON]
