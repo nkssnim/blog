@@ -130,7 +130,7 @@ I scored the highest in class for the first midterm, got the 2nd highest in clas
 
 This course was difficult from the start till the end. They started throwing material science stuff at me (which I fortunately had some experience with) at the start and then suddenly we started doing quantum mechanics (I still don't know how Schrodinger's equation works or what a wavefunction is) and I just tried to remember the stuff I understood and discard anything that didn't make sense to me. The last couple of topics were much easier to digest and just 'made sense' to me.
 
-I felt like I struggled for the exams but the TA marked my answers so leniently (I drew a flower for the second midterm and she drew a smiley face next to it), and everyone else in the class was just scoring so much worse than me that even I managed to surprise myself with my performance in this class.
+I felt like I struggled for the exams but the TA marked my answers so leniently (I drew a flower for the second midterm and she drew a smiley face next to it ![Flower with a smiley face next to it on my exam paper](/blog/eec145flower.jpg)), and everyone else in the class was just scoring so much worse than me that even I managed to surprise myself with my performance in this class.
 
 Expected Grade: B+  
 Final Grade: A
