@@ -13,9 +13,7 @@ Some background information about me:
 - I would generally consider myself to be academically competent with 4.67/5.00 CAP (which translates to ~3.7 GPA in US universities).
 - The only experience I had with university education before student exchange was entirely online, with exclusively open-book tests.
 
-
 [Part 1 here](https://faezs.com/blog/SEP)
-
 
 ## Course Reviews (continued)
 
@@ -69,7 +67,7 @@ Also, because the homework on transmission lines involved using a smith chart, I
 
 This was the course I was the most worried about because I knew that if the final wasn't open-book, I would barely be able to hit a 50% overall weighted mark.
 
-My planw as just to get as many points as I could from the homework and the take-home midterm and hope for the best. I pretty much knew that everyone would get screwed over for the final because the professor doesn't give partial credit (he only marks your final answer). I tried doing 5 problems from each chapter to prepare for the final but it was futile because the approach to problem solving was non-existent. It didn't help that the textbook problems were absolute garbage for practice.
+My plan was just to get as many points as I could from the homework and the take-home midterm and hope for the best. I pretty much knew that everyone would get screwed over for the final because the professor doesn't give partial credit (he only marks your final answer). I tried doing 5 problems from each chapter to prepare for the final but it was futile because the approach to problem solving was non-existent. It didn't help that the textbook problems were absolute garbage for practice.
 
 Fortunately, the professor set pretty low percentages for the grades. I finished with a 48% and got a B. The other grades in the class were 2 B's and 2 C's. Probably had to finish with a 60% to get an A or something like that.
 
@@ -80,7 +78,7 @@ Final Grade: B
 
 Alright... this was the most interesting class I took at UC Davis, and I don't mean that in a good way.
 
-This course was taught by Dr Andrew Waldron. The TA for my section is the (amazing) -redacted- love that guy. This course is basically the entirety of vector calculus. I forgot the textbook but I think it was Thomas' Calculus: Early Trancendentals, 13 ed. This course was completely CA-based so there were no exams.
+This course was taught by Dr Andrew Waldron. The TA for my section is the (amazing) -redacted- love that guy. This course is basically the entirety of vector calculus. I forgot the textbook but I think it was Thomas' Calculus: Early Transcendentals, 13 ed. This course was completely CA-based so there were no exams.
 
 I took this course because I wanted to refresh my knowledge on vector calculus so I could tackle the problems in EEC 130A, and also because I was taking it with a friend who desperately needed my help because he was taking 7 courses and doing a remote internship at the same time and basically dying in every single way possible (Hi Zikun!).
 
@@ -126,25 +124,25 @@ This class was just weird. It was my first time taking a non-STEM class in unive
 
 This class was taught by Jane Harrington. I think the class is one of the requirements of a Minor in Management or something like that??? I don't even know. The only reason I took this class is because it could be mapped to one of the required fluff-mods I had to take at NUS.
 
-The content for this class was... something I can't remember because it's all meainingless BS. I think the only part of this class that I can even remotely recall is a lecture on negotiations, which was just about the only interesting thing taught.
+The content for this class was... something I can't remember because it's all meaningless BS. I think the only part of this class that I can even remotely recall is a lecture on negotiations, which was just about the only interesting thing taught.
 
 #### Office Hours & Consultation
 
-There were office hours by the professor and 2 TAs. Apparently only one person showed up for office hours in the first week and the professor gave him a gift card or something for that. She announaced it during the lecture (on Zoom) and expected everyone to clap or something like that. Really strange stuff... I never attended any of the office hours because why would you need to attend office hours for a course like this?
+There were office hours by the professor and 2 TAs. Apparently only one person showed up for office hours in the first week and the professor gave him a gift card or something for that. She announced it during the lecture (on Zoom) and expected everyone to clap or something like that. Really strange stuff... I never attended any of the office hours because why would you need to attend office hours for a course like this?
 
 #### Lectures
 
-Lectures were once a week and I attended all of them. I think it was important to attend them during online instruction because you needed to get your attendance in or you would lose participation marks (worth 10%). Attendance-taking for Zoom sesions was done by typing your name in the chat. Once things shifted to in-person, attendance wasn't taken but the professor would just randomly call out your name and if you weren't there, you would pretty much lose all your class participation. 
+Lectures were once a week and I attended all of them. I think it was important to attend them during online instruction because you needed to get your attendance in or you would lose participation marks (worth 10%). Attendance-taking for Zoom sessions was done by typing your name in the chat. Once things shifted to in-person, attendance wasn't taken but the professor would just randomly call out your name and if you weren't there, you would pretty much lose all your class participation. 
 
 I was taking this course with a housemate who had a name that was pronounced the same way as someone else's in the class, so whenever the professor called either of their names, the other girl would always answer for her (they never figured out that both of them were different people), so she pretty much stopped attending in-person lectures and still managed to get her class participation in.
 
 Discussions were also held once a week, with a smaller group of people. The TA for our section was really strict and it seemed like she genuinely believed all the crap that we were being taught in class (I guess that's what a non-STEM education does to you). She also had the habit of playing loud music before the start of class, either in the discussion room or the lecture hall (that's probably why I got tinnitus in my right ear now). So yeah, the TA is a terrible person and I only wish bad things upon her.
 
-The group activites for both the lectures and discussions were definitely the best part of the course. I got to meet a lot of people from those activities and most of them were pretty chill.
+The group activities for both the lectures and discussions were definitely the best part of the course. I got to meet a lot of people from those activities and most of them were pretty chill.
 
 #### Assignments & Projects
 
-We were assigned to groups in the second week and we had group work during some weeks, individual work or both during other weeks. I can't remember anything about the group assignements except that we were given a scenario in some tech company and we had to make a decision about something... The other people in my group had experience taking the other management classes so I pretty much left it up to them to figure stuff out since their brains were obviously wired to ace this class.
+We were assigned to groups in the second week and we had group work during some weeks, individual work or both during other weeks. I can't remember anything about the group assignments except that we were given a scenario in some tech company and we had to make a decision about something... The other people in my group had experience taking the other management classes so I pretty much left it up to them to figure stuff out since their brains were obviously wired to ace this class.
 
 In the first 2 weeks we also had this stupid thing called Creative Sprint where you would be given some prompt and you'd have to create something out of random things in your house, take a photo and post it on a public Miro board. Do it for 15 days and you got full credit. The Miro board could be edited by anyone at anytime so people were getting their submissions randomly deleted and were told to take screenshots (lol). At some point someone just deleted all the submissions for one of the sections so everyone in that section had to look for all the photos they posted and compile them together in a separate submission, it was a shitshow lmao.
 
