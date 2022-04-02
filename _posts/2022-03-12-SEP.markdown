@@ -5,12 +5,15 @@ date:   2022-03-24 18:36:00 +0800
 categories: jekyll update
 ---
 
+[READ PART 2 HERE](https://faezs.com/blog/SEP_P2)
+
 From January to March 2022, I had the opportunity to study at UC Davis as an exchange student.
 
 Some background information about me:
-At the time of student exchange, I was a 3rd year Electrical Engineering student at the National University of Singapore.
-I would generally consider myself to be academically competent with 4.67/5.00 CAP (which translates to ~3.7 GPA in US universities).
-The only experience I had with university education before student exchange was entirely online, with exclusively open-book tests.
+
+- At the time of student exchange, I was a 3rd year Electrical Engineering student at the National University of Singapore.
+- I would generally consider myself to be academically competent with 4.67/5.00 CAP (which translates to ~3.7 GPA in US universities).
+- The only experience I had with university education before student exchange was entirely online, with exclusively open-book tests.
 
 With that out of the way, let's talk about what my schedule looked like at UC Davis:
 
@@ -184,4 +187,4 @@ Aim for the stars, land on the moon, as they say. I don't feel like I put in eno
 Expected Grade: C-  
 Final Grade: A-
 
-[PART 2 COMING SOON]
+[READ PART 2 HERE](https://faezs.com/blog/SEP_P2)
